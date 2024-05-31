@@ -1,11 +1,13 @@
 # Exercice 1
+
 Pour cet exercice, il faut :
-• Changer la couleur du texte de tous les paragraphes
-• Changer la couleur de fond et ajouter une marges intérieure aux éléments de classe maclasse
-• Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'identifiant monid
-• Placer le Cinquième paragraphe en haut à droite
 
+- Changer la couleur du texte de tous les paragraphes
+- Changer la couleur de fond et ajouter une marge intérieure aux éléments de classe `maclasse`
+- Ajouter une bordure en trait continu, une marge intérieure et une marge extérieure à l'élément d'identifiant `monid`
+- Placer le Cinquième paragraphe en haut à droite
 
+```html
 <section>
   <h1>Mon titre 1</h1>
   <article>
@@ -21,3 +23,4 @@ Pour cet exercice, il faut :
     <p>Sixième paragraphe</p>
   </article>
 </section>
+```
